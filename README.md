@@ -30,4 +30,4 @@ Fitur-Fitur Aplikasi:
 
 Screenshot Aplikasi:
 
-<img src="https://github.com/user-attachments/assets/b09d6c10-cdcd-4e01-b809-12f4d0062553" width="200" height="250">
+<img src="https://github.com/user-attachments/assets/b09d6c10-cdcd-4e01-b809-12f4d0062553" width="300" height="400">
