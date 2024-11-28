@@ -30,4 +30,4 @@ Fitur-Fitur Aplikasi:
 
 Screenshot Aplikasi:
 
-![WhatsApp Image 2024-11-23 at 19 58 34(1)](https://github.com/user-attachments/assets/b09d6c10-cdcd-4e01-b809-12f4d0062553 | width=100)
+<img src="https://github.com/user-attachments/assets/b09d6c10-cdcd-4e01-b809-12f4d0062553" width="100" height="100">
