@@ -31,3 +31,7 @@ Fitur-Fitur Aplikasi:
 Screenshot Aplikasi:
 
 <img src="https://github.com/user-attachments/assets/b09d6c10-cdcd-4e01-b809-12f4d0062553" width="400" height="550">
+<img src="https://github.com/user-attachments/assets/5d13c186-75a5-4a83-ae64-8c555f93c3c9" width="400" height="550">
+<img src="https://github.com/user-attachments/assets/63c032f1-7a35-4d89-8439-bce0a99d3909" width="400" height="550">
+<img src="https://github.com/user-attachments/assets/ca158a7e-783c-4acb-9218-1b75e2054661" width="400" height="550">
+<img src="https://github.com/user-attachments/assets/032f647f-4035-4aeb-a14d-1bce67dc72ce" width="400" height="550">
